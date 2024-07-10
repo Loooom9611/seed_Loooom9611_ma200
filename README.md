@@ -1,0 +1,1 @@
+# nasdaq-100-stocks-above-200-day-average
